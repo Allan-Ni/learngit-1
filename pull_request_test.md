@@ -9,3 +9,6 @@ I am learning how to use git and github and this is my first time to pull reques
 
 #### xiang
 my first pull request.
+
+#### Allan Ni
+this is my first to use Git to pull request. how will be sucessful. regards
