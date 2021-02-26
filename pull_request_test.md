@@ -14,5 +14,7 @@ my first pull request.
 this is my first to use Git to pull request. how will be sucessful. regards
 
 #### Allan
-
 Let me try my first pull request.
+
+#### Allan Ni
+I will try other round pull request.
